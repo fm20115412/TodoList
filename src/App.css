@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  color: #333;
+  margin: 0 auto;
+  padding: 0 1em;
+  min-height: 30em;
+  width: 40em;
+
+}
+.App > .todoList > li:nth-child(old){
+  color:#ebbca7
+}
+.App > .todoList > li:nth-child(even){
+  color:#1ebbca
+}
+.App h1{
+  color: #fff;
+}
